@@ -79,8 +79,9 @@ background-repeat: no-repeat;
 {
 background-image: url("img/EEEMVRB.png");
 background-repeat:no-repeat;
-background-size: contain;
+background-size:contain;
 background-position: center;
+padding: 5px;
 }
 .imagemequipe
 {
