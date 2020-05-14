@@ -104,7 +104,7 @@ p
 }
 a
 {
-color: black;
+color: #363636;
 text-decoration: none;
 text-transform: none;
 text-align: center;
@@ -165,8 +165,8 @@ background-position: center;
 background-image: url("img/selos.jpeg");
 align-items:center;
 justify-content: center;
-border-radius: 12px;
-box-shadow: 2px 2px 4px #424242;
+border-radius: 80px;
+box-shadow: 60px 30px 10px #424242;
 float: center;
 opacity: 0.8;
 transition: 0.2s;
